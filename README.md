@@ -5,3 +5,4 @@
 - [ ] Reine, Norway
 - [ ] Montenegro
 - [ ] Rejkavik, Iceland
+- [ ] Vernazzo, Italy

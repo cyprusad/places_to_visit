@@ -6,3 +6,4 @@
 - [ ] Montenegro
 - [ ] Rejkavik, Iceland
 - [ ] Vernazzo, Italy
+- [ ] Hordaland, Norway

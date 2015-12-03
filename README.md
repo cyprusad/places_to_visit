@@ -8,3 +8,4 @@
 - [ ] Vernazzo, Italy
 - [ ] Hordaland, Norway
 - [ ] Lae Tekapo, New Zealand
+- [ ] Mont Saint-Michel, France

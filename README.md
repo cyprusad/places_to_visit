@@ -10,3 +10,4 @@
 - [ ] Lae Tekapo, New Zealand
 - [ ] Mont Saint-Michel, France
 - [ ] Greenland
+- [ ] Bastel, Germany

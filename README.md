@@ -11,3 +11,4 @@
 - [ ] Mont Saint-Michel, France
 - [ ] Greenland
 - [ ] Bastel, Germany
+- [ ] Lake Mapourika, New Zealand

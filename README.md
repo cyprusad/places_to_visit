@@ -13,3 +13,4 @@
 - [ ] Bastel, Germany
 - [ ] Lake Mapourika, New Zealand
 - [ ] Matterhorn, Switzerland
+- [ ] Lofoten, Norway

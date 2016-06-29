@@ -14,3 +14,4 @@
 - [ ] Lake Mapourika, New Zealand
 - [ ] Matterhorn, Switzerland
 - [ ] Lofoten, Norway
+- [ ] Mount Bromo, Indonesia
